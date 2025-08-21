@@ -2304,7 +2304,7 @@
 	@media (max-width:576px) and (min-width:100px) {
 		.body12{
 		height:50vw;
-		background-color:green;
+		background-color:transparent;
 		padding-top:5vw;
 	}
 	
@@ -2775,4 +2775,5 @@
 		font-size:1.1vw;
 	}
 	}
+
 	
